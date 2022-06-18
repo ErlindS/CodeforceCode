@@ -3,5 +3,10 @@
 using namespace std;
 
 int main(){
-cout << 10 % 10;
+int x = 0;
+if(x == 0)
+  cout << "HI";
+  else
+  cout << "how yare you";
+  cout << "hello";
 }
